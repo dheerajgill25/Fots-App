@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1031638532580",
+    "project_id": "foodonthestove-c3125",
+    "storage_bucket": "foodonthestove-c3125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031638532580:android:473dd2a2250b26352987f1",
+        "android_client_info": {
+          "package_name": "com.it.fots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031638532580-rls9gn10u8f6v4fpitjkss315qgvm6gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7Nsafs-U3n7h7U61AmeUt9JvzgrHyo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031638532580-rls9gn10u8f6v4fpitjkss315qgvm6gr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031638532580-a5q54814kvrpicjltmbk02v9i6punu4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.it.fots"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
